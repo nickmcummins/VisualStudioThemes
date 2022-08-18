@@ -44,7 +44,7 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
-  <ItemGroup>
+  <ItemGroup Label="NonBuildIncludes">
     <None Include="CustomTheme.vstheme">
       <SubType>Designer</SubType>
     </None>
@@ -60,4 +60,8 @@
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Import Project="$(VSToolsPath)\VSSDK\Microsoft.VsSDK.targets" Condition="'$(VSToolsPath)' != ''" />
+
+  <Target Name="BeforeBuild" BeforeTargets="PreBuildEvent">
+    <Exec Command="powershell.exe -Command &quot;&amp; { [xml]$vsixManifest = Get-Content $(ProjectDir)\source.extension.vsixmanifest; $vsixIdentity = $vsixManifest.PackageManifest.Metadata.Identity; $version = $vsixIdentity.Version; $versions = $version.Split('.'); $newversion = $versions[0] + '.' + $versions[1] + '.' + ([int]$versions[2] + 1); Write-Host $newversion; $vsixIdentity.SetAttribute('Version', $newversion); $vsixManifest.Save('$(ProjectDir)\source.extension.vsixmanifest') }&quot;&amp; " />
+  </Target>
 </Project>
