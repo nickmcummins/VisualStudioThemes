@@ -45,7 +45,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup Label="NonBuildIncludes">
-    <None Include="CustomTheme.vstheme">
+    <None Include="RiderDark.vstheme">
       <SubType>Designer</SubType>
     </None>
     <None Include="source.extension.vsixmanifest">
