@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="GitHubIDE-RiderMelonLight" GUID="{204b477b-19d6-4050-98d4-891346c29c95}" BaseGUID="{51123b1b-9889-4e3d-a33a-a8f7f3ccd266}">
+  <Theme Name="GitHubIDE-RiderMelonLight" GUID="{0e238a79-480a-44e1-813b-b42051aa3f59}" BaseGUID="{51123b1b-9889-4e3d-a33a-a8f7f3ccd266}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Chevron">
         <Foreground Type="CT_RAW" Source="FFF6F8FA" />
@@ -5058,7 +5058,7 @@
         <Background Type="CT_RAW" Source="FF7B7B7B" />
       </Color>
     </Category>
-    <Category Name="Roslyn Text Editor MEF Items" GUID="{75a05685-00a8-4ded-bae5-e7a50bfa929a}">
+    <Category Name="Azure Resource Manager Tools" GUID="{75a05685-00a8-4ded-bae5-e7a50bfa929a}">
       <Color Name="xml doc comment - delimiter">
         <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF6A737D" />
@@ -5564,7 +5564,7 @@
         <Foreground Type="CT_RAW" Source="FFC40A17" />
       </Color>
       <Color Name="Matched Selected Text">
-        <Background Type="CT_RAW" Source="FF3D3D3D" />
+        <Background Type="CT_RAW" Source="FFDAE4F7" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="MarkerFormatDefinition/SelectedTextInScrollBar">
@@ -9784,7 +9784,7 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
     </Category>
-    <Category Name="SqlResultsGrid" GUID="{6202ff3e-488e-4ead-92cb-be089659f8d7}">
+    <Category Name="SQL Results - Grid" GUID="{6202ff3e-488e-4ead-92cb-be089659f8d7}">
       <Color Name="Grid Cell">
         <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_INVALID" Source="00000000" />
@@ -9806,7 +9806,7 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
     </Category>
-    <Category Name="SqlResultsText" GUID="{587d0421-e473-4032-b214-9359f3b7bc80}">
+    <Category Name="SQL Results - Text" GUID="{587d0421-e473-4032-b214-9359f3b7bc80}">
       <Color Name="Plain Text">
         <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_INVALID" Source="00000000" />
