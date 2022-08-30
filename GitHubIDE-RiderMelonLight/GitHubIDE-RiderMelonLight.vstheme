@@ -1825,10 +1825,10 @@
         <Background Type="CT_RAW" Source="FF2F363D" />
       </Color>
       <Color Name="AutoHideTabMouseOverBorder">
-        <Background Type="CT_RAW" Source="FFF9826C" />
+        <Background Type="CT_RAW" Source="FFCFE4FA" />
       </Color>
       <Color Name="AutoHideTabBorder">
-        <Background Type="CT_RAW" Source="FFE1E4E8" />
+        <Background Type="CT_RAW" Source="FFF6F8FA" />
       </Color>
       <Color Name="ButtonHighlight">
         <Background Type="CT_RAW" Source="FF159739" />
@@ -2152,10 +2152,10 @@
         <Background Type="CT_RAW" Source="FFF6F8FA" />
       </Color>
       <Color Name="AutoHideTabMouseOverBackgroundBegin">
-        <Background Type="CT_RAW" Source="FFF6F8FA" />
+        <Background Type="CT_RAW" Source="FFCFE4FA" />
       </Color>
       <Color Name="AutoHideTabMouseOverBackgroundEnd">
-        <Background Type="CT_RAW" Source="FFF6F8FA" />
+        <Background Type="CT_RAW" Source="FFCFE4FA" />
       </Color>
       <Color Name="EnvironmentBackground">
         <Background Type="CT_RAW" Source="FFF6F8FA" />
@@ -9784,7 +9784,7 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
     </Category>
-    <Category Name="SQL Results - Grid" GUID="{6202ff3e-488e-4ead-92cb-be089659f8d7}">
+    <Category Name="SqlResultsGrid" GUID="{6202ff3e-488e-4ead-92cb-be089659f8d7}">
       <Color Name="Grid Cell">
         <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_INVALID" Source="00000000" />
@@ -9806,7 +9806,7 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
     </Category>
-    <Category Name="SQL Results - Text" GUID="{587d0421-e473-4032-b214-9359f3b7bc80}">
+    <Category Name="SqlResultsText" GUID="{587d0421-e473-4032-b214-9359f3b7bc80}">
       <Color Name="Plain Text">
         <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_INVALID" Source="00000000" />
