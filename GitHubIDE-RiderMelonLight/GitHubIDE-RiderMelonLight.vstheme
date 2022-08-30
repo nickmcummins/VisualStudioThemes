@@ -8185,7 +8185,7 @@
         <Background Type="CT_RAW" Source="FF2F363D" />
       </Color>
       <Color Name="FocusVisualBorder">
-        <Background Type="CT_RAW" Source="FF2188FF" />
+        <Background Type="CT_RAW" Source="002188FF" />
       </Color>
       <Color Name="DragDropInsertionArrow">
         <Background Type="CT_RAW" Source="FFE51400" />
