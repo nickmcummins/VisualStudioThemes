@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="GitHubIDE-RiderMelonLight" GUID="{0e238a79-480a-44e1-813b-b42051aa3f59}" BaseGUID="{51123b1b-9889-4e3d-a33a-a8f7f3ccd266}">
+  <Theme Name="GitHubIDE-RiderMelonLight (1)" GUID="{7d12a235-4756-4b80-a593-bd30047d93c0}" BaseGUID="{51123b1b-9889-4e3d-a33a-a8f7f3ccd266}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Chevron">
         <Foreground Type="CT_RAW" Source="FFF6F8FA" />
@@ -6381,7 +6381,7 @@
       </Color>
       <Color Name="HTML Entity">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF00656E" />
       </Color>
       <Color Name="HTML Operator">
         <Background Type="CT_INVALID" Source="00000000" />
