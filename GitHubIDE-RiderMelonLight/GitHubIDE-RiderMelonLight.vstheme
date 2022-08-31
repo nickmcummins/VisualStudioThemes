@@ -1870,7 +1870,7 @@
         <Background Type="CT_RAW" Source="FF159739" />
       </Color>
       <Color Name="ToolWindowButtonDown">
-        <Background Type="CT_RAW" Source="FF159739" />
+        <Background Type="CT_RAW" Source="FFABC8F9" />
       </Color>
       <Color Name="DocWellOverflowButtonMouseDownGlyph">
         <Background Type="CT_RAW" Source="FFFFFFFF" />
@@ -1933,16 +1933,16 @@
         <Background Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="ToolWindowButtonDownActiveGlyph">
-        <Background Type="CT_RAW" Source="FFFFFFFF" />
+        <Background Type="CT_RAW" Source="FF7F7F7F" />
       </Color>
       <Color Name="ToolWindowButtonDownInactiveGlyph">
         <Background Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="ToolWindowButtonHoverActiveGlyph">
-        <Background Type="CT_RAW" Source="FFFFFFFF" />
+        <Background Type="CT_RAW" Source="FF7F7F7F" />
       </Color>
       <Color Name="ToolWindowButtonHoverInactiveGlyph">
-        <Background Type="CT_RAW" Source="FFFFFFFF" />
+        <Background Type="CT_RAW" Source="FF7F7F7F" />
       </Color>
       <Color Name="MainWindowButtonDown">
         <Background Type="CT_RAW" Source="FF138934" />
@@ -2008,16 +2008,16 @@
         <Background Type="CT_RAW" Source="FF138934" />
       </Color>
       <Color Name="ToolWindowButtonHoverActive">
-        <Background Type="CT_RAW" Source="FF138934" />
+        <Background Type="CT_RAW" Source="FFABC8F9" />
       </Color>
       <Color Name="ToolWindowButtonHoverActiveBorder">
-        <Background Type="CT_RAW" Source="FF138934" />
+        <Background Type="CT_RAW" Source="FFABC8F9" />
       </Color>
       <Color Name="ToolWindowButtonHoverInactive">
-        <Background Type="CT_RAW" Source="FF138934" />
+        <Background Type="CT_RAW" Source="FFABC8F9" />
       </Color>
       <Color Name="ToolWindowButtonHoverInactiveBorder">
-        <Background Type="CT_RAW" Source="FF138934" />
+        <Background Type="CT_RAW" Source="FFABC8F9" />
       </Color>
       <Color Name="MainWindowButtonHoverInactiveGlyph">
         <Background Type="CT_RAW" Source="FF1B1F23" />
@@ -2502,7 +2502,7 @@
         <Background Type="CT_RAW" Source="FF2F363D" />
       </Color>
       <Color Name="ToolWindowButtonActiveGlyph">
-        <Background Type="CT_RAW" Source="FF2F363D" />
+        <Background Type="CT_RAW" Source="FF7F7F7F" />
       </Color>
       <Color Name="ToolWindowButtonInActiveGlyph">
         <Background Type="CT_RAW" Source="FF2F363D" />
@@ -2829,7 +2829,7 @@
         <Background Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="TitleBarDragHandleActive">
-        <Background Type="CT_RAW" Source="FFFFFFFF" />
+        <Background Type="CT_RAW" Source="00FFFFFF" />
       </Color>
       <Color Name="TitleBarInactive">
         <Background Type="CT_RAW" Source="FFFFFFFF" />
@@ -3988,10 +3988,10 @@
         <Background Type="CT_RAW" Source="FFF5F5F5" />
       </Color>
       <Color Name="ToolWindowButtonDownBorder">
-        <Background Type="CT_RAW" Source="FF0E6198" />
+        <Background Type="CT_RAW" Source="FFABC8F9" />
       </Color>
       <Color Name="ToolWindowButtonInactiveGlyph">
-        <Background Type="CT_RAW" Source="FF1E1E1E" />
+        <Background Type="CT_RAW" Source="FF7F7F7F" />
       </Color>
       <Color Name="ToolWindowContentTabGradientBegin">
         <Background Type="CT_RAW" Source="FFEEEEF2" />
@@ -6863,7 +6863,7 @@
     </Category>
     <Category Name="StartPage" GUID="{65d78f35-869e-4bf3-8e52-991fee554a16}">
       <Color Name="StartPageListItemHover">
-        <Background Type="CT_RAW" Source="FFEBF0F4" />
+        <Background Type="CT_RAW" Source="FFCCE5FF" />
         <Foreground Type="CT_RAW" Source="FF2F363D" />
       </Color>
       <Color Name="StartPageButton">
