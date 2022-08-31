@@ -5880,7 +5880,7 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Breakpoint - Mapped (Error)">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FFFAEAE6" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Call Return">
@@ -5896,7 +5896,7 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Breakpoint - Temporary (Enabled)">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FFFAEAE6" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Tracepoint - Mapped (Error)">
@@ -5908,7 +5908,7 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Breakpoint - Advanced (Enabled)">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FFFAEAE6" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Snappoint - Advanced (Enabled)">
@@ -5916,7 +5916,7 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Breakpoint - Advanced (Error)">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FFFAEAE6" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Logpoint (Warning)">
@@ -5936,7 +5936,7 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Breakpoint (Warning)">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FFFAEAE6" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Logpoint (Disabled)">
@@ -5964,11 +5964,11 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Breakpoint - Dependent (Enabled)">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FFFAEAE6" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Breakpoint - Temporary (Warning)">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FFFAEAE6" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Breakpoint - Temporary (Disabled)">
@@ -6020,7 +6020,7 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Breakpoint (Error)">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FFFAEAE6" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Current Statement (new context)">
@@ -6028,7 +6028,7 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Breakpoint - Mapped (Enabled)">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FFFAEAE6" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Tracepoint (Disabled)">
@@ -6048,11 +6048,11 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Breakpoint - Dependent (Warning)">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FFFAEAE6" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Breakpoint - Advanced (Warning)">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FFFAEAE6" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Snappoint - Advanced (Disabled)">
@@ -6072,15 +6072,15 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Breakpoint - Temporary (Error)">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FFFAEAE6" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Breakpoint (Enabled)">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FFFAEAE6" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Breakpoint - Mapped (Warning)">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FFFAEAE6" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Call Return (new context)">
@@ -6096,7 +6096,7 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Breakpoint - Dependent (Error)">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FFFAEAE6" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Python Interactive - Black">
