@@ -1843,7 +1843,7 @@
         <Background Type="CT_RAW" Source="FF159739" />
       </Color>
       <Color Name="DocWellOverflowButtonMouseDownBackground">
-        <Background Type="CT_RAW" Source="FF159739" />
+        <Background Type="CT_RAW" Source="FFA8B0B6" />
       </Color>
       <Color Name="FileTabButtonDownInactive">
         <Background Type="CT_RAW" Source="FFA8B0B6" />
@@ -1951,10 +1951,10 @@
         <Background Type="CT_RAW" Source="FFD0E9FE" />
       </Color>
       <Color Name="DocWellOverflowButtonMouseOverBackground">
-        <Background Type="CT_RAW" Source="FF138934" />
+        <Background Type="CT_RAW" Source="FFA8B0B6" />
       </Color>
       <Color Name="DocWellOverflowButtonMouseOverBorder">
-        <Background Type="CT_RAW" Source="FF138934" />
+        <Background Type="CT_RAW" Source="FFA8B0B6" />
       </Color>
       <Color Name="FileTabButtonHoverInactive">
         <Background Type="CT_RAW" Source="FFA8B0B6" />
@@ -2472,7 +2472,7 @@
         <Background Type="CT_RAW" Source="FFF6F8FA" />
       </Color>
       <Color Name="TitleBarActiveGradientBegin">
-        <Background Type="CT_RAW" Source="FFF6F8FA" />
+        <Background Type="CT_RAW" Source="FFF3F3F3" />
       </Color>
       <Color Name="TitleBarActiveGradientEnd">
         <Background Type="CT_RAW" Source="FFF6F8FA" />
@@ -2484,7 +2484,7 @@
         <Background Type="CT_RAW" Source="FFF6F8FA" />
       </Color>
       <Color Name="ToolWindowBorder">
-        <Background Type="CT_RAW" Source="FFE1E4E8" />
+        <Background Type="CT_RAW" Source="FFF8F9FB" />
       </Color>
       <Color Name="ToolboxHeadingAccent">
         <Background Type="CT_RAW" Source="FFF6F8FA" />
@@ -2641,7 +2641,7 @@
         <Background Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="DocWellOverflowButtonGlyph">
-        <Background Type="CT_RAW" Source="FFFFFFFF" />
+        <Background Type="CT_RAW" Source="FF6A737D" />
       </Color>
       <Color Name="FileTabLastActiveGradientBottom">
         <Background Type="CT_RAW" Source="FFFFFFFF" />
@@ -2832,13 +2832,13 @@
         <Background Type="CT_RAW" Source="00FFFFFF" />
       </Color>
       <Color Name="TitleBarInactive">
-        <Background Type="CT_RAW" Source="FFFFFFFF" />
+        <Background Type="CT_RAW" Source="FFF8F9FB" />
       </Color>
       <Color Name="TitleBarInactiveGradientBegin">
-        <Background Type="CT_RAW" Source="FFFFFFFF" />
+        <Background Type="CT_RAW" Source="FFF8F9FB" />
       </Color>
       <Color Name="TitleBarInactiveGradientEnd">
-        <Background Type="CT_RAW" Source="FFFFFFFF" />
+        <Background Type="CT_RAW" Source="FFF8F9FB" />
       </Color>
       <Color Name="ToolboxSelectedHeadingBegin">
         <Background Type="CT_RAW" Source="FFFFFFFF" />
@@ -2910,7 +2910,7 @@
         <Background Type="CT_RAW" Source="FF424242" />
       </Color>
       <Color Name="CommandBarMenuBackgroundGradientBegin">
-        <Background Type="CT_RAW" Source="FFFAFBFC" />
+        <Background Type="CT_RAW" Source="FFF7F8FA" />
       </Color>
       <Color Name="CommandBarMenuBackgroundGradientEnd">
         <Background Type="CT_RAW" Source="FFFAFBFC" />
@@ -2946,7 +2946,7 @@
         <Background Type="CT_RAW" Source="FF444D56" />
       </Color>
       <Color Name="CommandBarMenuItemMouseOver">
-        <Background Type="CT_RAW" Source="FFE2E5E9" />
+        <Background Type="CT_RAW" Source="FFC6E5FF" />
         <Foreground Type="CT_RAW" Source="FF2F363D" />
       </Color>
       <Color Name="DebuggerDataTipActiveHighlight">
@@ -2997,7 +2997,7 @@
         <Background Type="CT_RAW" Source="FFE5E5E5" />
       </Color>
       <Color Name="CommandBarHoverOverSelectedIcon">
-        <Background Type="CT_RAW" Source="FFE5E5E5" />
+        <Background Type="CT_RAW" Source="00C6E5FF" />
       </Color>
       <Color Name="CommandBarMouseDownBackgroundBegin">
         <Background Type="CT_RAW" Source="FFE5E5E5" />
@@ -3012,7 +3012,7 @@
         <Background Type="CT_RAW" Source="FFE5E5E5" />
       </Color>
       <Color Name="CommandBarMouseOverBackgroundBegin">
-        <Background Type="CT_RAW" Source="FFE5E5E5" />
+        <Background Type="CT_RAW" Source="FFF7F8FA" />
       </Color>
       <Color Name="CommandBarMouseOverBackgroundEnd">
         <Background Type="CT_RAW" Source="FFE5E5E5" />
@@ -3079,7 +3079,7 @@
         <Background Type="CT_RAW" Source="FFE2E5E9" />
       </Color>
       <Color Name="CommandBarBorder">
-        <Background Type="CT_RAW" Source="1A000000" />
+        <Background Type="CT_RAW" Source="FFF7F8FA" />
       </Color>
       <Color Name="CommandBarHoverOverSelectedIconBorder">
         <Background Type="CT_RAW" Source="1A000000" />
@@ -3285,7 +3285,7 @@
         <Background Type="CT_RAW" Source="FF999999" />
       </Color>
       <Color Name="CommandBarMenuBorder">
-        <Background Type="CT_RAW" Source="FFCCCEDB" />
+        <Background Type="CT_RAW" Source="FFF7F8FA" />
       </Color>
       <Color Name="CommandBarMenuGlyph">
         <Background Type="CT_RAW" Source="FF717171" />
@@ -3414,7 +3414,7 @@
         <Background Type="CT_RAW" Source="FF006CBE" />
       </Color>
       <Color Name="DocWellOverflowButtonMouseDownBorder">
-        <Background Type="CT_RAW" Source="FF006CBE" />
+        <Background Type="CT_RAW" Source="FFA8B0B6" />
       </Color>
       <Color Name="EditorExpansionBorder">
         <Background Type="CT_RAW" Source="FFCCCEDB" />
@@ -3966,7 +3966,7 @@
         <Background Type="CT_RAW" Source="FFCCCEBD" />
       </Color>
       <Color Name="TitleBarDragHandle">
-        <Background Type="CT_RAW" Source="FF999999" />
+        <Background Type="CT_RAW" Source="00999999" />
       </Color>
       <Color Name="ToolboxBackground">
         <Background Type="CT_RAW" Source="FFF5F5F5" />
@@ -5058,7 +5058,7 @@
         <Background Type="CT_RAW" Source="FF7B7B7B" />
       </Color>
     </Category>
-    <Category Name="Azure Resource Manager Tools" GUID="{75a05685-00a8-4ded-bae5-e7a50bfa929a}">
+    <Category Name="Roslyn Text Editor MEF Items" GUID="{75a05685-00a8-4ded-bae5-e7a50bfa929a}">
       <Color Name="xml doc comment - delimiter">
         <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF6A737D" />
