@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitHubIDE-ColorfulWhite-VST
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RiderDarkerVSTheme", "RiderDarkerVSTheme\RiderDarkerVSTheme.csproj", "{108D0DB6-471E-4ABF-A356-79C7ACC2A5BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RiderDarkVSTheme", "RiderDarkVSTheme\RiderDarkVSTheme.csproj", "{6F32E74E-403F-488B-9C9F-87C50F8CB62F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JetBrainsRiderDarkTheme", "JetBrainsRiderTheme\JetBrainsRiderDarkTheme.csproj", "{6F32E74E-403F-488B-9C9F-87C50F8CB62F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitHubIDE-RiderMelonLight", "GitHubIDE-RiderMelonLight\GitHubIDE-RiderMelonLight.csproj", "{9814E1F8-C8C5-4DA6-AB18-D617E2F501CB}"
 EndProject
