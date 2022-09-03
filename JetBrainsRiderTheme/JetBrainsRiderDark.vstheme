@@ -1825,7 +1825,7 @@
         <Background Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="AutoHideTabBorder">
-        <Background Type="CT_RAW" Source="FF2C2C2C" />
+        <Background Type="CT_RAW" Source="FF3B3B3B" />
       </Color>
       <Color Name="ButtonHighlight">
         <Background Type="CT_RAW" Source="FF354F85" />
@@ -2158,10 +2158,10 @@
         <Background Type="CT_RAW" Source="FF3B3B3B" />
       </Color>
       <Color Name="AutoHideTabMouseOverBackgroundBegin">
-        <Background Type="CT_RAW" Source="FF3B3B3B" />
+        <Background Type="CT_RAW" Source="FF555E6F" />
       </Color>
       <Color Name="AutoHideTabMouseOverBackgroundEnd">
-        <Background Type="CT_RAW" Source="FF3B3B3B" />
+        <Background Type="CT_RAW" Source="FF555E6F" />
       </Color>
       <Color Name="EnvironmentBackground">
         <Background Type="CT_RAW" Source="FF3B3B3B" />
@@ -2412,10 +2412,10 @@
         <Background Type="CT_RAW" Source="FFBBBBBB" />
       </Color>
       <Color Name="CommandBarToolBarSeparator">
-        <Background Type="CT_RAW" Source="FFBBBBBB" />
+        <Background Type="CT_RAW" Source="FF3B3B3B" />
       </Color>
       <Color Name="CommandBarToolBarSeparatorHighlight">
-        <Background Type="CT_RAW" Source="FFBBBBBB" />
+        <Background Type="CT_RAW" Source="FF3B3B3B" />
       </Color>
       <Color Name="CommandBarFrameControlHover">
         <Background Type="CT_RAW" Source="FF4E4E4E" />
@@ -2589,10 +2589,10 @@
         <Background Type="CT_RAW" Source="FF5E5E62" />
       </Color>
       <Color Name="AutoHideResizeGrip">
-        <Background Type="CT_RAW" Source="FF3E3E42" />
+        <Background Type="CT_RAW" Source="FF3B3B3B" />
       </Color>
       <Color Name="AutoHideResizeGripDisabled">
-        <Background Type="CT_RAW" Source="FF3E3E42" />
+        <Background Type="CT_RAW" Source="FF3B3B3B" />
       </Color>
       <Color Name="ScrollBarDisabledBackground">
         <Background Type="CT_RAW" Source="FF3E3E42" />
@@ -2759,7 +2759,7 @@
         <Background Type="CT_RAW" Source="00000000" />
       </Color>
       <Color Name="AutoHideTabText">
-        <Background Type="CT_RAW" Source="FFA5A5AA" />
+        <Background Type="CT_RAW" Source="FF979FAD" />
       </Color>
       <Color Name="FileTabButtonProvisionalInactiveGlyph">
         <Background Type="CT_RAW" Source="FFA5A5AA" />
@@ -3024,7 +3024,7 @@
         <Background Type="CT_RAW" Source="5C000000" />
       </Color>
       <Color Name="AutoHideTabMouseOverBorder">
-        <Background Type="CT_RAW" Source="FFFFFFFF" />
+        <Background Type="CT_RAW" Source="FF555E6F" />
       </Color>
       <Color Name="FileTabActiveGroupTitleBackground">
         <Background Type="CT_RAW" Source="FF262626" />
@@ -3081,7 +3081,7 @@
         <Background Type="CT_RAW" Source="00000000" />
       </Color>
       <Color Name="AutoHideTabMouseOverText">
-        <Background Type="CT_RAW" Source="FFA5A5AA" />
+        <Background Type="CT_RAW" Source="FF979FAD" />
       </Color>
       <Color Name="FileTabButtonProvisionalHoverGlyph">
         <Background Type="CT_RAW" Source="FFA5A5AA" />
@@ -8005,12 +8005,12 @@
         <Foreground Type="CT_RAW" Source="FF444444" />
       </Color>
       <Color Name="Inactive Selected Text">
-        <Background Type="CT_RAW" Source="FF585F69" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF08335E" />
+        <Foreground Type="CT_RAW" Source="00000000" />
       </Color>
       <Color Name="Selected Text">
-        <Background Type="CT_RAW" Source="FF0046B2" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF08335E" />
+        <Foreground Type="CT_RAW" Source="00000000" />
       </Color>
       <Color Name="Indicator Margin">
         <Background Type="CT_RAW" Source="FF282828" />
@@ -8349,7 +8349,7 @@
         <Background Type="CT_RAW" Source="FFA5A5AA" />
       </Color>
       <Color Name="SelectedItemInactive">
-        <Background Type="CT_RAW" Source="FF4A4D51" />
+        <Background Type="CT_RAW" Source="FF354F85" />
         <Foreground Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="SelectedItemInactiveGlyph">
