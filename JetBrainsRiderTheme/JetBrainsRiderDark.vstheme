@@ -4113,11 +4113,11 @@
     </Category>
     <Category Name="Find Results" GUID="{5c48b2cb-0366-4fbf-9786-0bb37e945687}">
       <Color Name="Selected Text in High Contrast">
-        <Background Type="CT_RAW" Source="FFA5A5AA" />
+        <Background Type="CT_RAW" Source="FF354F85" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Selected Text">
-        <Background Type="CT_RAW" Source="FFA5A5AA" />
+        <Background Type="CT_RAW" Source="FF354F85" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Current List Location">
@@ -4129,7 +4129,7 @@
         <Foreground Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
       <Color Name="Inactive Selected Text">
-        <Background Type="CT_RAW" Source="FF3F3F46" />
+        <Background Type="CT_RAW" Source="FF354F85" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="outlining.collapsehintadornment">
@@ -4596,11 +4596,11 @@
     </Category>
     <Category Name="Immediate Window" GUID="{6bb65c5a-2f31-4bde-9f48-8a38dc0c63e7}">
       <Color Name="Selected Text in High Contrast">
-        <Background Type="CT_RAW" Source="FFA5A5AA" />
+        <Background Type="CT_RAW" Source="FF354F85" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Selected Text">
-        <Background Type="CT_RAW" Source="FFA5A5AA" />
+        <Background Type="CT_RAW" Source="FF354F85" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Plain Text">
@@ -4608,7 +4608,7 @@
         <Foreground Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
       <Color Name="Inactive Selected Text">
-        <Background Type="CT_RAW" Source="FF3F3F46" />
+        <Background Type="CT_RAW" Source="FF354F85" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
     </Category>
@@ -4772,7 +4772,7 @@
     </Category>
     <Category Name="Locals" GUID="{8259aced-490a-41b3-a0fb-64c842ccdc80}">
       <Color Name="SelectedText">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF354F85" />
         <Foreground Type="CT_RAW" Source="FFA5A5AA" />
       </Color>
       <Color Name="ChangedText">
@@ -5005,7 +5005,7 @@
     </Category>
     <Category Name="Output Window" GUID="{9973efdf-317d-431c-8bc1-5e88cbfd4f7f}">
       <Color Name="Current List Location">
-        <Background Type="CT_RAW" Source="FF323232" />
+        <Background Type="CT_RAW" Source="FF354F85" />
         <Foreground Type="CT_RAW" Source="FFA5A5AA" />
       </Color>
       <Color Name="Plain Text">
@@ -5013,7 +5013,7 @@
         <Foreground Type="CT_RAW" Source="FFA5A5AA" />
       </Color>
       <Color Name="Inactive Selected Text">
-        <Background Type="CT_RAW" Source="FF585F69" />
+        <Background Type="CT_RAW" Source="FF354F85" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="OutputError">
@@ -5025,11 +5025,11 @@
         <Foreground Type="CT_RAW" Source="FF323232" />
       </Color>
       <Color Name="Selected Text in High Contrast">
-        <Background Type="CT_RAW" Source="FF08335E" />
+        <Background Type="CT_RAW" Source="FF354F85" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Selected Text">
-        <Background Type="CT_RAW" Source="FF08335E" />
+        <Background Type="CT_RAW" Source="FF354F85" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="urlformat">
@@ -5055,7 +5055,7 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Selected Text in High Contrast">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF354F85" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
     </Category>
@@ -8005,11 +8005,11 @@
         <Foreground Type="CT_RAW" Source="FF444444" />
       </Color>
       <Color Name="Inactive Selected Text">
-        <Background Type="CT_RAW" Source="FF08335E" />
+        <Background Type="CT_RAW" Source="FF354F85" />
         <Foreground Type="CT_RAW" Source="00000000" />
       </Color>
       <Color Name="Selected Text">
-        <Background Type="CT_RAW" Source="FF08335E" />
+        <Background Type="CT_RAW" Source="FF354F85" />
         <Foreground Type="CT_RAW" Source="00000000" />
       </Color>
       <Color Name="Indicator Margin">
@@ -8832,7 +8832,7 @@
     </Category>
     <Category Name="Watch" GUID="{358463d0-d084-400f-997e-a34fc570bc72}">
       <Color Name="SelectedText">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF354F85" />
         <Foreground Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="ChangedText">
@@ -9200,7 +9200,7 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="SelectedText">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF354F85" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
     </Category>
@@ -10148,11 +10148,11 @@
       </Color>
       <Color Name="SelectedText">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF000000" />
+        <Foreground Type="CT_RAW" Source="FF354F85" />
       </Color>
       <Color Name="InactiveSelectedText">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF000000" />
+        <Foreground Type="CT_RAW" Source="FF354F85" />
       </Color>
     </Category>
     <Category Name="ThemedAcceleratedDialog" GUID="{a2859846-e4aa-452d-ac41-8cc0e4e72e4c}">
@@ -10415,7 +10415,7 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="SelectedText">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF354F85" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
     </Category>
@@ -10507,7 +10507,7 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="SelectedText">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF354F85" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="ChangedText">
@@ -10551,7 +10551,7 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="SelectedText">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF354F85" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="ChangedText">
