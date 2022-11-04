@@ -5213,7 +5213,7 @@
       </Color>
       <Color Name="CurrentLineActiveFormat">
         <Background Type="CT_RAW" Source="FFDBE3EB" />
-        <Foreground Type="CT_RAW" Source="FFEEEEEE" />
+        <Foreground Type="CT_RAW" Source="FFDBE3EB" />
       </Color>
       <Color Name="MarkerFormatDefinition/HighlightedReference">
         <Background Type="CT_RAW" Source="FFFFFFFF" />
@@ -5897,7 +5897,7 @@
       </Color>
       <Color Name="Breakpoint - Temporary (Enabled)">
         <Background Type="CT_RAW" Source="FFFAEAE6" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="00000000" />
       </Color>
       <Color Name="Tracepoint - Mapped (Error)">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -5909,7 +5909,7 @@
       </Color>
       <Color Name="Breakpoint - Advanced (Enabled)">
         <Background Type="CT_RAW" Source="FFFAEAE6" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="00000000" />
       </Color>
       <Color Name="Snappoint - Advanced (Enabled)">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -5937,7 +5937,7 @@
       </Color>
       <Color Name="Breakpoint (Warning)">
         <Background Type="CT_RAW" Source="FFFAEAE6" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="00000000" />
       </Color>
       <Color Name="Logpoint (Disabled)">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -5965,11 +5965,11 @@
       </Color>
       <Color Name="Breakpoint - Dependent (Enabled)">
         <Background Type="CT_RAW" Source="FFFAEAE6" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="00000000" />
       </Color>
       <Color Name="Breakpoint - Temporary (Warning)">
         <Background Type="CT_RAW" Source="FFFAEAE6" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="00000000" />
       </Color>
       <Color Name="Breakpoint - Temporary (Disabled)">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -6049,11 +6049,11 @@
       </Color>
       <Color Name="Breakpoint - Dependent (Warning)">
         <Background Type="CT_RAW" Source="FFFAEAE6" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="00000000" />
       </Color>
       <Color Name="Breakpoint - Advanced (Warning)">
         <Background Type="CT_RAW" Source="FFFAEAE6" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="00000000" />
       </Color>
       <Color Name="Snappoint - Advanced (Disabled)">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -6077,11 +6077,11 @@
       </Color>
       <Color Name="Breakpoint (Enabled)">
         <Background Type="CT_RAW" Source="FFFAEAE6" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="00000000" />
       </Color>
       <Color Name="Breakpoint - Mapped (Warning)">
         <Background Type="CT_RAW" Source="FFFAEAE6" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="00000000" />
       </Color>
       <Color Name="Call Return (new context)">
         <Background Type="CT_INVALID" Source="00000000" />
